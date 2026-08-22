@@ -157,7 +157,7 @@ Frontend Development → Modern Web Applications → UI/UX & Design Systems
 
 I'm always interested in learning, building and collaborating on interesting technology projects.
 
-<br> <a href="https://github.com/arulmurugan2001"> <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://linkedin.com/in/arulmurugan-palanisamy-a6623b349"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:arul99811@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<br> <a href="https://github.com/arulmurugan2001"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://linkedin.com/in/arulmurugan-palanisamy-a6623b349"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> &nbsp; <a href="mailto:arul99811@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> &nbsp; <a href="https://instagram.com/arulbala"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
 <br><br>
 
