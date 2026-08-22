@@ -1,88 +1,140 @@
 <div align="center">
 
-# 👋 Hey, I'm Arulmurugan P
+# ARULMURUGAN P
 
-### 💻 Web Developer · React.js · Next.js · Python
+### Web Developer · React.js · Next.js · Python
 
-**I build clean, responsive & user-focused web experiences.**
+**Building clean, responsive & user-focused digital experiences.**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=arulmurugan2001\&style=for-the-badge\&color=0e75b6)](https://github.com/arulmurugan2001)
-[![GitHub Followers](https://img.shields.io/github/followers/arulmurugan2001?style=for-the-badge\&logo=github)](https://github.com/arulmurugan2001)
+<br>
+
+<a href="https://github.com/arulmurugan2001">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/arulmurugan-palanisamy-a6623b349">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:arul99811@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/arulbala">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=arulmurugan2001&style=flat-square&label=PROFILE+VIEWS&color=0e75b6"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/arulmurugan2001?style=flat-square&label=FOLLOWERS&logo=github"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm **Arulmurugan P**, a passionate **Web Developer** who enjoys transforming ideas into modern, responsive, and meaningful digital experiences.
+I'm **Arulmurugan P**, a passionate **Web Developer** focused on building modern, responsive, and user-friendly web applications.
 
-I focus on creating interfaces that are not only visually clean but also **fast, responsive, accessible, and easy to use**.
+I enjoy transforming ideas into practical digital solutions with a strong focus on **clean UI, responsive design, performance, usability, and maintainable code**.
+
+My goal is to continuously improve my technical skills while building products that provide meaningful and reliable user experiences.
 
 ```javascript
 const arul = {
     role: "Web Developer",
-    focus: ["Frontend Development", "Web Applications", "UI/UX"],
-    frontend: ["HTML", "CSS", "JavaScript", "React.js", "Next.js"],
-    backend: ["Python", "Node.js"],
-    database: ["MySQL"],
-    tools: ["Git", "GitHub", "Figma", "Bootstrap"],
-    mindset: "Learn → Build → Improve → Repeat 🚀"
+
+    specialties: [
+        "Frontend Development",
+        "Web Applications",
+        "UI/UX"
+    ],
+
+    frontend: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React.js",
+        "Next.js"
+    ],
+
+    backend: [
+        "Python",
+        "Node.js"
+    ],
+
+    database: [
+        "MySQL"
+    ],
+
+    tools: [
+        "Git",
+        "GitHub",
+        "Figma",
+        "Bootstrap"
+    ],
+
+    philosophy: "Learn → Build → Improve → Repeat"
 };
 ```
 
-### 💡 What I Do
+---
 
-* 🎨 Build **responsive & modern user interfaces**
-* ⚛️ Develop applications with **React.js & Next.js**
-* 🐍 Work with **Python backend solutions**
-* 🗄️ Design and manage **MySQL databases**
-* 📱 Create **mobile-friendly web experiences**
-* 🧩 Turn business ideas into **functional web platforms**
-* 🚀 Continuously learn and explore **modern technologies**
+## What I Do
+
+* Build **modern and responsive user interfaces**
+* Develop web applications using **React.js and Next.js**
+* Create backend solutions using **Python**
+* Work with **MySQL databases**
+* Build **mobile-first and responsive experiences**
+* Transform business requirements into **functional web platforms**
+* Focus on **clean code, usability, scalability, and performance**
+* Continuously explore **modern web technologies**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Design
+### Tools & Design
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arulmurugan2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arulmurugan2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arulmurugan2001&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<br/>
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=arulmurugan2001&theme=tokyonight&hide_border=true"/>
 
@@ -90,69 +142,88 @@ const arul = {
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-> 🚧 Building projects that solve real problems and create better digital experiences.
+I enjoy building practical solutions that solve real-world problems and create better digital experiences.
 
-### 🌐 Web Applications
+### Business Platforms
 
-**React.js · Next.js · JavaScript · Python · MySQL**
+**React.js · Next.js · Python · MySQL**
 
-I enjoy working on projects involving:
+Business-focused web platforms designed around usability, scalability, and efficient workflows.
 
-* 🏢 Business platforms
-* 🛒 E-commerce solutions
-* 📊 Admin dashboards
-* ☕ Restaurant & ordering systems
-* 📱 Responsive web applications
-* 🎨 Modern UI/UX experiences
+### E-Commerce Solutions
+
+**React.js · JavaScript · Bootstrap · MySQL**
+
+Responsive shopping experiences with clean interfaces and intuitive user flows.
+
+### Admin Dashboards
+
+**React.js · Next.js · MySQL**
+
+Modern dashboards for managing data, users, products, and business operations.
+
+### Restaurant & Ordering Systems
+
+**React.js · Python · MySQL**
+
+Digital ordering experiences focused on simple customer interactions and efficient business workflows.
+
+### Responsive Web Applications
+
+**HTML · CSS · JavaScript · React.js**
+
+Clean and responsive applications designed to work smoothly across desktop, tablet, and mobile devices.
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 ```text
-⚛️ Advanced React.js
-▲  Next.js
-🐍 Python Backend Development
-🗄️ Database Architecture
-🎨 UI/UX & Design Systems
-⚡ Performance Optimization
-🏗️ Scalable Web Applications
+React.js             → Advanced Frontend Development
+Next.js              → Modern Web Applications
+Python               → Backend Development
+MySQL                → Database Architecture
+UI/UX                → Design Systems
+Performance          → Web Optimization
+Architecture         → Scalable Applications
 ```
 
 ---
 
-## 🎯 My Developer Mindset
+## Developer Philosophy
 
 <div align="center">
 
-### 💡 Think → Design → Build → Test → Improve → Ship 🚀
+### Think → Design → Build → Test → Improve → Ship
 
-**"Good code works. Great code is simple, scalable and maintainable."**
+<br>
+
+**Clean Code · Thoughtful Design · Meaningful Experiences**
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="https://linkedin.com/in/arulmurugan-palanisamy-a6623b349">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:arul99811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/arulbala">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://github.com/arulmurugan2001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Visit-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -161,11 +232,11 @@ I enjoy working on projects involving:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile.
 
-**If you like my work, consider giving my repositories a ⭐**
+**If you find my work useful, consider giving my repositories a ⭐**
 
-<br/>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=100&section=footer"/>
 
