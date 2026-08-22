@@ -112,8 +112,46 @@ const arul = {
 
   mindset: "Learn → Build → Improve → Repeat 🚀"
 };
-💡 What I Do
-<table align="center"> <tr> <th align="left">Area</th> <th align="left">What I Build</th> </tr> <tr> <td>🎨 <b>Frontend Development</b></td> <td>Modern, responsive and interactive user interfaces</td> </tr> <tr> <td>⚛️ <b>React Development</b></td> <td>Dynamic and component-based web applications</td> </tr> <tr> <td>▲ <b>Next.js Development</b></td> <td>Modern, performant and scalable web applications</td> </tr> <tr> <td>🟢 <b>Backend Development</b></td> <td>Node.js and Express.js APIs and backend solutions</td> </tr> <tr> <td>🗄️ <b>Database Development</b></td> <td>MySQL database design, integration and management</td> </tr> <tr> <td>📱 <b>Responsive Design</b></td> <td>Optimized experiences for mobile, tablet and desktop</td> </tr> <tr> <td>🧩 <b>Business Platforms</b></td> <td>Digital solutions for real-world business operations</td> </tr> <tr> <td>🎯 <b>UI/UX</b></td> <td>Clean, intuitive and user-focused digital experiences</td> </tr> </table>
+## 💡 What I Do
+
+<table align="center">
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">What I Build</th>
+  </tr>
+  <tr>
+    <td>🎨 <b>Frontend Development</b></td>
+    <td>Modern, responsive and interactive user interfaces</td>
+  </tr>
+  <tr>
+    <td>⚛️ <b>React Development</b></td>
+    <td>Dynamic and component-based web applications</td>
+  </tr>
+  <tr>
+    <td>▲ <b>Next.js Development</b></td>
+    <td>Modern, performant and scalable web applications</td>
+  </tr>
+  <tr>
+    <td>🟢 <b>Backend Development</b></td>
+    <td>Node.js and Express.js APIs and backend solutions</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Database Development</b></td>
+    <td>MySQL database design, integration and management</td>
+  </tr>
+  <tr>
+    <td>📱 <b>Responsive Design</b></td>
+    <td>Optimized experiences for mobile, tablet and desktop</td>
+  </tr>
+  <tr>
+    <td>🧩 <b>Business Platforms</b></td>
+    <td>Digital solutions for real-world business operations</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>UI/UX</b></td>
+    <td>Clean, intuitive and user-focused digital experiences</td>
+  </tr>
+</table>
 🛠️ Tech Stack
 🎨 Frontend
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" alt="Frontend Technologies"/> </div> <br/>
